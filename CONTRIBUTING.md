@@ -1,3 +1,6 @@
+# Contributing
+
+Thank you for contributing!
 # Contributing to TrucCompression
 
 Thanks for helping improve a **public MergeOS product**.
